@@ -17,7 +17,7 @@ The project's mission should be considered accomplished in the following cases:
 2. There is no more need in active capital allocation as the core assets are very efficient in terms of return to drawdowns ratio.
 
 ## Technical details
-A token (BRC-20?) should be deployed with (?) quantity and mint limit of (?). 
+A token (BRC-20?) should be deployed with the quantity of (?) and the mint limit of (?). 
 
 ### Key interactions
 1. A purchase of the token transfers bitcoins from a user's wallet to the Project's multi-sig cold wallet with geographically remote private keys. 
